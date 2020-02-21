@@ -19,7 +19,13 @@ The device was built using an Arduino Uno board, paired with four sensors:
 
 these sensors provide measurements of the nearby environment, which are the core element of the music generation algorithm. 
 
+![](img/circuit.png)
+![](img/device.jpg)
+
 This algorithm has been developed using the [Max/MSP](https://cycling74.com/products/max) programming language, along with a simple user interface, built with the embedded graphical objects in it.
+
+![](img/patch.png)
+![](img/ui.png)
 
 # Expected Outcomes
 
