@@ -30,7 +30,9 @@ This algorithm has been developed using the [Max/MSP](https://cycling74.com/prod
 # Expected Outcomes
 
 - A simple yet usable system that could produce interesting music.
-  
+
+A short demonstration can be found [here](https://youtu.be/dkhU408JD18 )  
+
 # Project Documents
 
 Here is the [written report](HCI_report.pdf).
