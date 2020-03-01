@@ -8,6 +8,8 @@
 
 In this project I developed a simple hardware/software system able to produce [Generative Music](https://en.wikipedia.org/wiki/Generative_music). This was done exploiting the relationships with Human Computer Interaction and music production, trying to build a device that could be used by everyone. 
 
+A short demonstration can be found [here](https://youtu.be/dkhU408JD18 )  
+
 # Tools and Techniques
 
 The device was built using an Arduino Uno board, paired with four sensors:
@@ -31,9 +33,7 @@ This algorithm has been developed using the [Max/MSP](https://cycling74.com/prod
 
 - A simple yet usable system that could produce interesting music.
 
-A short demonstration can be found [here](https://youtu.be/dkhU408JD18 )  
-
 # Project Documents
 
-Here is the [written report](HCI_report.pdf).
+Here is the [written report](HCI_report.pdf) and here is the [presentation](HCI_presentation.pdf).
 
